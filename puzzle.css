@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:#0c67ae;
+
+}
+#title{
+    height:100px;
+    width:420px;
+    margin-bottom: 30px;
+}
+#board{
+    width:330px;
+    height:330px;
+    background-color: lightblue;
+    margin: auto;
+    border: 10px solid #0c67ae;
+    display: flex;
+    flex-wrap: wrap;
+}
+#board img{
+    width:108px;
+    height:108px;
+    border:1px solid #0c67ae;
+    
+
+}
